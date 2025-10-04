@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Jonatan
+ * @author Jonatan y Gabriel
  */
 public class Ejercicio_clase_04_10_25 {
 

@@ -3,7 +3,7 @@ package com.mycompany.ejercicio_clase_04_10_25;
 
 /**
  *
- * @author Jonatan
+ * @author Jonatan y Gabriel
  */
 public class cliente {
     private Integer codigo;
